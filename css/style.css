@@ -278,6 +278,10 @@ body {
 
 /* BRANDS */
 
+.brands__inner {
+	margin: 0 0 60px 0;
+}
+
 .brands-container {
 	max-width: 1220px;
 	margin: 0 auto;
